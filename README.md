@@ -17,13 +17,13 @@ Simply open the script and edit the first variables to match your coin requireme
 Then simply run the script like this:
 
 ```
-bash altcoin_generator.sh start
+sudo bash altcoin_generator.sh start
 ```
 
 To see all possible options run the script like this:
 
 ```
-bash altcoin_generator.sh
+sudo bash altcoin_generator.sh
 ```
 
 ## What will happen then?
@@ -60,7 +60,7 @@ Yes.
 Then you can clean up the mess with:
 
 ```
-bash altcoin_generator.sh clean_up
+sudo bash altcoin_generator.sh clean_up
 ```
 
 ## Can I help the project?
